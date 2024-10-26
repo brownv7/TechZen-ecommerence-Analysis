@@ -1,6 +1,6 @@
 # Optimizing TechZen: A Data-Driven Approach. Project Objectives:
 
-TechZen, a global e-commerce leader that specializes in curating the latest consumer electronics and accessories. With a vast trove of sales, marketing, operational, product, and loyalty data, TechZen is now unlocking valuable insights to fuel its growth.
+TechZen, a global e-commerce leader founded in 2018, that specializes in curating the latest consumer electronics and accessories. With a vast trove of sales, marketing, operational, product, and loyalty data, TechZen is now unlocking valuable insights to fuel its growth.
 This comprehensive analysis will provide actionable recommendations on:
 
 *	Sales Trends: Analyzing revenue, orders, and average order value to identify sales patterns and opportunities.
