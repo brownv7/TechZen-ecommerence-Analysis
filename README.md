@@ -10,8 +10,6 @@ This comprehensive analysis will provide actionable recommendations on:
 *	Marketing Channel ROI: Determining the most effective marketing channels to maximize return on investment.
 
 
-## Headers
-
 # Dataset and Structure
 
 The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 78,846 records.
@@ -21,8 +19,6 @@ The database structure as seen below consists of four tables: orders, customers,
 ![image](https://github.com/user-attachments/assets/3dde7d69-4761-4991-bf25-e4bb826579d5)
 
 A preliminary data assessment was conducted to ensure its suitability for analysis. While the data was generally clean, several minor quality issues were identified and documented [here](https://github.com/brownv7/TechZen-ecommerence-Analysis/blob/main/Data%20Cleaning%20Doc.pdf). These issues included inconsistencies in product naming, missing country data, missing columns necessary for analysis, and null values.
-
-###### This is a Heading h6
 
 # Insights Summary
 *Sales*
@@ -34,14 +30,6 @@ TechZen sales has **been declining from previous years with 2022 sales and order
 The loyalty program, launched in 2019, has gained significant popularity among customers, consistently demonstrating year-over-year growth. In 2021, **members contributed to a substantial 64% of total revenue**.
 
 However, a recent analysis in 2022 revealed an interesting trend: **non-members, on average, spend $40 more per transaction ($275 vs. $240) than loyalty program members**. This suggests that while the program has been successful in driving customer loyalty, it may not be maximizing revenue potential.
-
-*This text will be italic*  
-_This will also be italic_
-
-**This text will be bold**  
-__This will also be bold__
-
-_You **can** combine them_
 
 # Leveraging Data to Enhance TechZen Efficiency 
 
@@ -61,3 +49,5 @@ _You **can** combine them_
     
 * **Platform Improvements:**
     * Our website continues to see strong demand for new accounts. We recommend **enhancements to continue to be made to our website and mobile apps** as both platforms continue to see strong growth.
+ 
+# Technical Analysis
