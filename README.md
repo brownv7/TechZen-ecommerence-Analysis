@@ -6,7 +6,7 @@ This comprehensive analysis will provide actionable recommendations on:
 *	Sales Trends: Analyzing revenue, orders, and average order value to identify sales patterns and opportunities.
 *	Product Performance: Evaluating product lines to pinpoint top-sellers, underperformers, and market trends.
 *	Loyalty Program Effectiveness: Assessing the loyalty program's impact on customer retention and satisfaction.
-*	Operational Efficiency: Optimizing logistics and operations for cost-effectiveness and speed.
+*	Operational Efficiency: Optimizing operations with a comparative analysis across regions for cost-effectiveness.
 *	Marketing Channel ROI: Determining the most effective marketing channels to maximize return on investment.
 
 
@@ -42,7 +42,7 @@ However, a recent analysis in 2022 revealed an interesting trend: **non-members,
     * Make enrollment easy and accessible by offering compelling incentives like exclusive discounts, while clearly communicating the benefits of membership and how to easily earn and redeem rewards.
 
 * **Operational Effectiveness:**
-    * As TechZen expands globally, we should reassess our delivery network to identify potential partnerships with more efficient national carriers. Additionally, we should conduct a deeper analysis of our **sales performance in LATAM** to understand the underlying factors contributing to lower sales and explore strategies for improvement.
+    * As TechZen expands globally, we should conduct a deeper analysis of our **sales performance in LATAM** to understand the underlying factors contributing to lower sales and explore strategies for improvement.
 
 * **Marketing Channels:**
     * Given the continued **success of direct and email marketing**, TechZen should maintain its investment in these channels. However, we recommend re-evaluating our social media marketing efforts, as their contribution to sales has historically been minimal and is declining.
