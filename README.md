@@ -51,3 +51,17 @@ However, a recent analysis in 2022 revealed an interesting trend: **non-members,
     * Our website continues to see strong demand for new accounts. We recommend **enhancements to continue to be made to our website and mobile apps** as both platforms continue to see strong growth.
  
 # Technical Analysis
+![Yearly_summary](https://github.com/user-attachments/assets/6aa14f4c-a948-4a6a-8fc5-8cfe50b37eec)
+![Product Total Sales](https://github.com/user-attachments/assets/766bfe85-49a9-4d8a-8efd-4579de1b9481)
+![Product_sales Graph](https://github.com/user-attachments/assets/d379cc1b-ed9b-4358-bf63-967d269c9d3f)
+![Loyalty_Program Yearly](https://github.com/user-attachments/assets/4a7b4f18-d437-42ad-84cb-f9cebe52b679)
+![Loyalty vs  NonLoyalty](https://github.com/user-attachments/assets/f8d5bc09-6e36-4b2b-bae5-a8eef2b2166c)
+![Yearly sales _region](https://github.com/user-attachments/assets/65a241ce-7a2c-4e30-abe2-9ea0dac8454b)
+![Marketing](https://github.com/user-attachments/assets/a834c45a-78a5-48ca-b4ee-98aa7ae417c7)
+
+
+
+
+
+
+
