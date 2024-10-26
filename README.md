@@ -1,12 +1,4 @@
-# Leveraging Data to Enhance TechZen Efficiency
-Leveraging Data to Enhance TechZen Efficiency
-
-#ERD
-
-![image](https://github.com/user-attachments/assets/0aad775f-364b-4e29-9adf-56d9eee8a1aa)
-
-
-# Leveraging Data to Enhance TechZen Efficiency or Optimizing TechZen A Data-Driven Approach: Project Objectives:
+# Optimizing TechZen A Data-Driven Approach: Project Objectives:
 
 TechZen, a global e-commerce leader that specializes in curating the latest consumer electronics and accessories. With a vast trove of sales, marketing, operational, product, and loyalty data, TechZen is now unlocking valuable insights to fuel its growth.
 This comprehensive analysis will provide actionable recommendations on:
@@ -51,7 +43,7 @@ __This will also be bold__
 
 _You **can** combine them_
 
-# Recommendations
+# Leveraging Data to Enhance TechZen Efficiency 
 
 #### Based on the analysis of these insights, the team recommends the following strategic initiatives:
 
