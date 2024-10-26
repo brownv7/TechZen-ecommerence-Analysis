@@ -54,7 +54,7 @@ However, a recent analysis in 2022 revealed an interesting trend: **non-members,
 ![Yearly_summary](https://github.com/user-attachments/assets/6aa14f4c-a948-4a6a-8fc5-8cfe50b37eec)
 ![Yearly sales _region](https://github.com/user-attachments/assets/50b12857-03a5-43dd-8ba3-3603c87dd1d5)
 ![Product_Sales_Graph](https://github.com/user-attachments/assets/03d84c4b-1130-4400-a4c1-a9711ae20c6f)
-![Loyalty_Program](https://github.com/user-attachments/assets/cb3f76fc-0b79-456c-9636-a9d6d4c173ed)
+![Loyalty_Program](https://github.com/user-attachments/assets/f8ab206b-aec3-4741-8b94-164d16652472)
 ![Marketing](https://github.com/user-attachments/assets/1ecc9d43-cfdd-4908-a709-1be48f209d60)
 
 
