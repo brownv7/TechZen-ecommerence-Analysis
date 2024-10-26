@@ -52,11 +52,9 @@ However, a recent analysis in 2022 revealed an interesting trend: **non-members,
  
 # Technical Analysis
 ![Yearly_summary](https://github.com/user-attachments/assets/6aa14f4c-a948-4a6a-8fc5-8cfe50b37eec)
-![Product Total Sales](https://github.com/user-attachments/assets/766bfe85-49a9-4d8a-8efd-4579de1b9481)
-![Product_sales Graph](https://github.com/user-attachments/assets/d379cc1b-ed9b-4358-bf63-967d269c9d3f)
-![Loyalty_Program Yearly](https://github.com/user-attachments/assets/4a7b4f18-d437-42ad-84cb-f9cebe52b679)
-![Loyalty vs  NonLoyalty](https://github.com/user-attachments/assets/f8d5bc09-6e36-4b2b-bae5-a8eef2b2166c)
-![Yearly sales _region](https://github.com/user-attachments/assets/65a241ce-7a2c-4e30-abe2-9ea0dac8454b)
+![Yearly sales _region](https://github.com/user-attachments/assets/50b12857-03a5-43dd-8ba3-3603c87dd1d5)
+![Product_Sales_Graph](https://github.com/user-attachments/assets/03d84c4b-1130-4400-a4c1-a9711ae20c6f)
+![Loyalty_Program](https://github.com/user-attachments/assets/cb3f76fc-0b79-456c-9636-a9d6d4c173ed)
 ![Marketing](https://github.com/user-attachments/assets/a834c45a-78a5-48ca-b4ee-98aa7ae417c7)
 
 
