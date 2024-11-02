@@ -26,13 +26,20 @@ TechZen sales has **been declining from previous years with 2022 sales and order
 
 *Sales*
 
-**27in 4K Gaming Monitor** consistently has been the company's best-selling product (based on revenue), accounting for **over 30% of total product sales each year**, while **Bose Soundsport Headphones** has been the lowest, accounting for **less than 1% of total product sales each year**. We are seeing customers in the loyalty program generating more sales for TechZen ($500K more in 2021) and **spending more per order on average** ($35 more in 2022) compared to those not in the loyalty program, suggesting that the loyalty program is trending positively and proving popular amongst our customers.
+   * 27in 4K Gaming Monitor: This product has consistently been the company's top seller based on revenue, accounting for over 30% of total product sales annually.
+   * Bose Soundsport Headphones: This product has been the lowest-selling product, accounting for less than 1% of total product sales annually.
+   * The Apple AirPods Headphones, the top-selling product with 48,000 units and $7.7 million in revenue, unexpectedly had the highest number of refunds at 2,636, indicating a potential issue with product quality or customer satisfaction.
 
 *Loyalty Program*
 
-The loyalty program, launched in 2019, has gained significant popularity among customers, consistently demonstrating year-over-year growth. In 2021, **members contributed to a substantial 64% of total revenue**.
+   * Launched in 2019, the loyalty program has shown consistent year-over-year growth. In 2021, members generated $500K more in sales and spent an average of $35 more per order than non-members, indicating positive program performance and customer satisfaction.
+   * In 2021, members contributed to a significant 64% of total revenue.
+   * Members are generating more sales ($500K more in 2021) and spending more per order on average ($35 more in 2022) compared to non-members.
 
-However, a recent analysis in 2022 revealed an interesting trend: **non-members, on average, spend $40 more per transaction ($275 vs. $240) than loyalty program members**. This suggests that while the program has been successful in driving customer loyalty, it may not be maximizing revenue potential.
+*Marketing Channel Effectiveness*
+
+   * The ‘direct’ channel consistently generates the most revenue year-on-year, accounting for **83%** of total revenue and **78%** of total orders.
+   * The 'social media’ channel accounts for **1%** of total revenue and orders.
 
 # Leveraging Data to Enhance TechZen Efficiency 
 
