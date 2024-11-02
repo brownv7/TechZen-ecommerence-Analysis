@@ -33,7 +33,7 @@ TechZen sales has **been declining from previous years with 2022 sales and order
 *Loyalty Program*
 
    * Launched in 2019, the loyalty program has shown consistent year-over-year growth. In 2021, members generated $500K more in sales and spent an average of $35 more per order than non-members, indicating positive program performance and customer satisfaction.
-   * In 2021, members contributed to a significant **64%** of total revenue.
+   * In 2021, members contributed to a significant **64% of total revenue**.
    * Members are generating more sales ($500K more in 2021) and spending more per order on average ($35 more in 2022) compared to non-members.
 
 *Marketing Channel Effectiveness*
