@@ -26,8 +26,8 @@ TechZen sales has **been declining from previous years with 2022 sales and order
 
 *Sales*
 
-   * 27in 4K Gaming Monitor: This product has consistently been the company's top seller based on revenue, accounting for over 30% of total product sales annually.
-   * Bose Soundsport Headphones: This product has been the lowest-selling product, accounting for less than 1% of total product sales annually.
+   * 27in 4K Gaming Monitor: This product has consistently been the company's top seller based on revenue, accounting for **over 30%** of total product sales annually.
+   * Bose Soundsport Headphones: This product has been the lowest-selling product, accounting for **less than 1% **of total product sales annually.
    * The Apple AirPods Headphones: the top-selling product with 48,000 units and **$7.7 million in revenue**, unexpectedly had the highest number of refunds at 2,636, indicating a potential issue with product quality or customer satisfaction.
 
 *Loyalty Program*
