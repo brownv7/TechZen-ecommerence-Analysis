@@ -28,12 +28,12 @@ TechZen sales has **been declining from previous years with 2022 sales and order
 
    * 27in 4K Gaming Monitor: This product has consistently been the company's top seller based on revenue, accounting for over 30% of total product sales annually.
    * Bose Soundsport Headphones: This product has been the lowest-selling product, accounting for less than 1% of total product sales annually.
-   * The Apple AirPods Headphones, the top-selling product with 48,000 units and $7.7 million in revenue, unexpectedly had the highest number of refunds at 2,636, indicating a potential issue with product quality or customer satisfaction.
+   * The Apple AirPods Headphones: the top-selling product with 48,000 units and **$7.7 million in revenue**, unexpectedly had the highest number of refunds at 2,636, indicating a potential issue with product quality or customer satisfaction.
 
 *Loyalty Program*
 
    * Launched in 2019, the loyalty program has shown consistent year-over-year growth. In 2021, members generated $500K more in sales and spent an average of $35 more per order than non-members, indicating positive program performance and customer satisfaction.
-   * In 2021, members contributed to a significant 64% of total revenue.
+   * In 2021, members contributed to a significant **64%** of total revenue.
    * Members are generating more sales ($500K more in 2021) and spending more per order on average ($35 more in 2022) compared to non-members.
 
 *Marketing Channel Effectiveness*
