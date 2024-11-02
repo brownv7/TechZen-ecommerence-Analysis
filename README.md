@@ -21,9 +21,12 @@ The database structure as seen below consists of four tables: orders, customers,
 A preliminary data assessment was conducted to ensure its suitability for analysis. While the data was generally clean, several minor quality issues were identified and documented [here](https://github.com/brownv7/TechZen-ecommerence-Analysis/blob/main/Data%20Cleaning%20Doc.pdf). These issues included inconsistencies in product naming, missing country data, missing columns necessary for analysis, and null values.
 
 # Insights Summary
+
+TechZen sales has **been declining from previous years with 2022 sales and order count decreasing by 46% and 40%** respectively from 2021. This decline can primarily be attributed to a return to normalcy following the easing of the COVID-19 pandemic. 
+
 *Sales*
 
-TechZen sales has **been declining from previous years with 2022 sales and order count decreasing by 46% and 40%** respectively from 2021. This decline can primarily be attributed to a return to normalcy following the easing of the COVID-19 pandemic.  **27in 4K Gaming Monitor** consistently has been the company's best-selling product (based on revenue), accounting for **over 30% of total product sales each year**, while **Bose Soundsport Headphones** has been the lowest, accounting for **less than 1% of total product sales each year**. We are seeing customers in the loyalty program generating more sales for TechZen ($500K more in 2021) and **spending more per order on average** ($35 more in 2022) compared to those not in the loyalty program, suggesting that the loyalty program is trending positively and proving popular amongst our customers.
+**27in 4K Gaming Monitor** consistently has been the company's best-selling product (based on revenue), accounting for **over 30% of total product sales each year**, while **Bose Soundsport Headphones** has been the lowest, accounting for **less than 1% of total product sales each year**. We are seeing customers in the loyalty program generating more sales for TechZen ($500K more in 2021) and **spending more per order on average** ($35 more in 2022) compared to those not in the loyalty program, suggesting that the loyalty program is trending positively and proving popular amongst our customers.
 
 *Loyalty Program*
 
