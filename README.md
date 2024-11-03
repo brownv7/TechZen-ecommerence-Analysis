@@ -61,11 +61,18 @@ TechZen sales has **been declining from previous years with 2022 sales and order
     * Our website continues to see strong demand for new accounts. We recommend **enhancements to continue to be made to our website and mobile apps** as both platforms continue to see strong growth.
  
 # Technical Analysis
-![Yearly_summary](https://github.com/user-attachments/assets/6aa14f4c-a948-4a6a-8fc5-8cfe50b37eec)
-![Yearly sales _region](https://github.com/user-attachments/assets/50b12857-03a5-43dd-8ba3-3603c87dd1d5)
-![Product_Sales_Graph](https://github.com/user-attachments/assets/03d84c4b-1130-4400-a4c1-a9711ae20c6f)
-![Loyalty_Program](https://github.com/user-attachments/assets/f8ab206b-aec3-4741-8b94-164d16652472)
-![Marketing](https://github.com/user-attachments/assets/1ecc9d43-cfdd-4908-a709-1be48f209d60)
+![Yearly_summary](https://github.com/user-attachments/assets/02fd7e83-8bcc-48ef-8125-52fa11c3385c)
+![Product_Perform](https://github.com/user-attachments/assets/b8fda0eb-6849-4e4f-bdac-705d549fea47)
+![Loyalty_Program](https://github.com/user-attachments/assets/ceb64b24-9393-4b37-9a76-496a89b2b666)
+![Region Growth](https://github.com/user-attachments/assets/26ae8bcc-d308-4396-a2df-98b4a43ef768)
+![Region growth_bar](https://github.com/user-attachments/assets/3edc1b3b-ebbb-4a56-aef7-5665731dd2ff)
+![Marketing](https://github.com/user-attachments/assets/8c74fafa-dd4a-438b-9bb1-dc2349813921)
+
+
+
+
+
+
 
 
 
