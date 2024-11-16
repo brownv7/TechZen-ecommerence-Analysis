@@ -66,7 +66,9 @@ TechZen sales has **been declining from previous years with 2022 sales and order
 ![Loyalty_Program](https://github.com/user-attachments/assets/ceb64b24-9393-4b37-9a76-496a89b2b666)
 ![Region Growth](https://github.com/user-attachments/assets/26ae8bcc-d308-4396-a2df-98b4a43ef768)
 ![Region growth_bar](https://github.com/user-attachments/assets/3edc1b3b-ebbb-4a56-aef7-5665731dd2ff)
-![Marketing](https://github.com/user-attachments/assets/8c74fafa-dd4a-438b-9bb1-dc2349813921)
+![Marketing](https://github.com/user-attachments/assets/dbd644a7-af05-437a-bd42-67a1d3e5d911)
+
+
 
 
 
