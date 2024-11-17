@@ -30,16 +30,24 @@ TechZen sales has **been declining from previous years with 2022 sales and order
    * Bose Soundsport Headphones: This product has been the lowest-selling product, accounting for **less than 1% **of total product sales annually.
    * The Apple AirPods Headphones: the top-selling product with 48,000 units and **$7.7 million in revenue**, unexpectedly had the highest number of refunds at 2,636, indicating a potential issue with product quality or customer satisfaction.
 
+![Yearly_summary](https://github.com/user-attachments/assets/02fd7e83-8bcc-48ef-8125-52fa11c3385c)
+
+![Product_Perform](https://github.com/user-attachments/assets/b8fda0eb-6849-4e4f-bdac-705d549fea47)
+
 *Loyalty Program*
 
    * Launched in 2019, the loyalty program has shown consistent year-over-year growth. In 2021, members generated $500K more in sales and spent an average of $35 more per order than non-members, indicating positive program performance and customer satisfaction.
    * In 2021, members contributed to a significant **64% of total revenue**.
    * Members are generating more sales ($500K more in 2021) and spending more per order on average ($35 more in 2022) compared to non-members.
 
+![Loyalty_Program](https://github.com/user-attachments/assets/ceb64b24-9393-4b37-9a76-496a89b2b666)
+
 *Marketing Channel Effectiveness*
 
    * The ‘direct’ channel consistently generates the most revenue year-on-year, accounting for **83%** of total revenue and **78%** of total orders.
    * The 'social media’ channel accounts for **1%** of total revenue and orders.
+
+![Marketing](https://github.com/user-attachments/assets/dbd644a7-af05-437a-bd42-67a1d3e5d911)
 
 # Leveraging Data to Enhance TechZen Efficiency 
 
@@ -54,19 +62,22 @@ TechZen sales has **been declining from previous years with 2022 sales and order
 * **Operational Effectiveness:**
     * As TechZen expands globally, we should conduct a deeper analysis of our **sales performance in LATAM** to understand the underlying factors contributing to lower sales and explore strategies for improvement.
 
+![Region Growth](https://github.com/user-attachments/assets/26ae8bcc-d308-4396-a2df-98b4a43ef768)
+
+![Region growth_bar](https://github.com/user-attachments/assets/3edc1b3b-ebbb-4a56-aef7-5665731dd2ff)
+
 * **Marketing Channels:**
     * Given the continued **success of direct and email marketing**, TechZen should maintain its investment in these channels. However, we recommend re-evaluating our social media marketing efforts, as their contribution to sales has historically been minimal and is declining.
     
 * **Platform Improvements:**
     * Our website continues to see strong demand for new accounts. We recommend **enhancements to continue to be made to our website and mobile apps** as both platforms continue to see strong growth.
  
-# Technical Analysis
-![Yearly_summary](https://github.com/user-attachments/assets/02fd7e83-8bcc-48ef-8125-52fa11c3385c)
-![Product_Perform](https://github.com/user-attachments/assets/b8fda0eb-6849-4e4f-bdac-705d549fea47)
-![Loyalty_Program](https://github.com/user-attachments/assets/ceb64b24-9393-4b37-9a76-496a89b2b666)
-![Region Growth](https://github.com/user-attachments/assets/26ae8bcc-d308-4396-a2df-98b4a43ef768)
-![Region growth_bar](https://github.com/user-attachments/assets/3edc1b3b-ebbb-4a56-aef7-5665731dd2ff)
-![Marketing](https://github.com/user-attachments/assets/dbd644a7-af05-437a-bd42-67a1d3e5d911)
+
+
+
+
+
+
 
 
 
