@@ -40,7 +40,9 @@ TechZen sales has **been declining from previous years with 2022 sales and order
    * In 2021, members contributed to a significant **64% of total revenue**.
    * Members are generating more sales ($500K more in 2021) and spending more per order on average ($35 more in 2022) compared to non-members.
 
-![Loyalty_Program](https://github.com/user-attachments/assets/ceb64b24-9393-4b37-9a76-496a89b2b666)
+![Loyalty_Program](https://github.com/user-attachments/assets/eae1ebad-d5a0-410b-ae58-bef916f9497f)
+
+![Loyalty_Program2](https://github.com/user-attachments/assets/dc033f73-90b4-4372-b80f-a2a06575bdd5)
 
 *Marketing Channel Effectiveness*
 
